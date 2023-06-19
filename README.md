@@ -5,7 +5,7 @@
 <p align='center'>Hello! I am Andres Kiani, an individual who is extremely passionate about computational science and data analysis.</p>
 
 <!--- About You --->   
-<h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"></h2>
+<h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 ☫ </h2>
 
 
 - 🔭 I’m currently working on optical imaging data set focusing on exploring the existence of probability maps in the earliest part of the cortex!
