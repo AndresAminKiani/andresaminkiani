@@ -9,14 +9,10 @@
 
 
 - 🔭 I’m currently working on optical imaging data set focusing on exploring the existence of probability maps in the earliest part of the cortex!
-  
-- 🌱 I’m currently learning natural language processing and overall methods of artificial intelligence and machine learning.
-  
-- 👯 I’m looking to collaborate on indivduals or teams who are interested in complex algorithms, machine learning algorithms, and data informed models.
+    
+- 👯 I study complex algorithms and parametric data techniques.
   
 - 💬 Ask me about data informed modeling and data assimilation.
-
-- 🤔 I’m looking for help with more resources for understanding and anaylzying non-linear and chaotic systems. 
   
 - 📫 How to reach me:
     - <div><a href="https://www.linkedin.com/in/andres-kiani-229445116">LinkedIn</a></div>
@@ -24,7 +20,7 @@
 
 - 😄 Pronouns: He/Him
   
-- ⚡ Fun fact: Fluent in four languages and currently learning Nepali.
+- ⚡ Fun fact: Fluent in four languages (English/Kurdish/Laki/Spanish) and currently learning Nepali.
 
 <br/>
 
