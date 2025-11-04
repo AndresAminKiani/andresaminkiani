@@ -1,6 +1,6 @@
 <!--- Header --->   
 <h1 align="center">
-  𝙒𝙚𝙡𝙘𝙤𝙢𝙚 &lt;fellow researchers/&gt; !
+  𝙒𝙚𝙡𝙘𝙤𝙢𝙚 &lt;fellow researchers/&gt;
 </h1>      
 <p align='center'>Hello! I am Andres Kiani, an individual who is extremely passionate about computational science and data analysis.</p>
 
