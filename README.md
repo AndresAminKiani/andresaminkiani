@@ -8,11 +8,11 @@
 <h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚  </h2>
 
 
-- 🔭 I’m currently working on computational optical imaging techniques and asking whether there exists probability maps in the earliest part of the visual cortex.
+- I’m currently working on computational optical imaging techniques and asking whether there exists probability maps in the earliest part of the visual cortex.
     
 - I study complex algorithms and parametric data techniques.
     
-- 📫 How to reach me:
+- How to reach me:
     - <div><a href="https://www.linkedin.com/in/andres-kiani-229445116">LinkedIn</a></div>
     - <div>Email:<a href=mailto:“kiani006@utexas.edu”> kiani006@utexas.edu</a></div>
 
