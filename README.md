@@ -18,7 +18,7 @@
 
 - Pronouns: He/Him
   
-- ⚡ Fun fact: Fluent in four languages (English/Kurdish/Laki/Spanish) and currently learning Nepali.
+- Fluent in four languages (English/Kurdish/Laki/Spanish) and currently learning Nepali.
 
 <br/>
 
