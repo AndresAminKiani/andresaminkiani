@@ -62,7 +62,7 @@
 
 
 <!--- Stats --->      
-## 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝙎𝙩𝙧𝙚𝙖𝙠 🔥
+## 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝙎𝙩𝙧𝙚𝙖𝙠
     
 <p align="center">
   <a href="https://github.com/andresaminkiani/github-readme-streak-stats">
@@ -72,7 +72,7 @@
 
   
   
-## 𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨 ⚙️ &nbsp;
+## 𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨 &nbsp;
   
 <div align="center">
   <a href="https://github.com/andresaminkiani">
