@@ -9,7 +9,7 @@ Building production AI/ML systems for federal R&D — NASA, Navy, NIH, CDC
 
 ## About
 
-Applied scientist with 11+ years building AI/ML systems from research to production across defense, health, and space. Currently leading algorithm development and serving as PI on federal R&D programs. Inventor of novel techniques in clinical NLP, computer vision, and state estimation. $840K+ in competitive federal funding secured.
+Applied scientist with 11+ years building AI/ML systems from research to production across defense, health, and space. Currently leading algorithm development and serving as PI on federal R&D programs. Inventor of novel techniques in clinical NLP, computer vision, and state estimation.
 
 **M.S. Data Science** — University of Texas at Austin  
 **B.S. Neuroscience** — University of Minnesota
