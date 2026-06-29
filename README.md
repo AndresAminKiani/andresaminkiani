@@ -1,10 +1,6 @@
 # Andres Amin Kiani
 
 **Senior Data Scientist** · Dallas, TX  
-Building production AI/ML systems for federal R&D — NASA, Navy, NIH, CDC
-
-[LinkedIn](https://www.linkedin.com/in/andres-kiani) · [Email](mailto:andresaminkiani@gmail.com)
-
 ---
 
 ## About
